@@ -1,0 +1,1 @@
+WordPress es compatible con MySQL y MariaDB. Estos sistemas de bases de datos permiten almacenar y gestionar la información de tu sitio web de manera eficiente. Además, MySQL es muy popular y bien documentado, lo que facilita su uso y soporte.
